@@ -22,3 +22,4 @@ Student of programming and web development for 2 years, passionate about JavaScr
 ## Contact
 
 E-mail: pereirarenato21@gmail.com
+Linkedin: [](https://www.linkedin.com/in/renato-pereira-6720a9166/)
