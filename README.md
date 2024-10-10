@@ -24,7 +24,7 @@
 ## 🌟 About Me
 My name is Renato, and I am a Full Stack developer with almost 4 years of experience, specializing in backend development. I am a young Brazilian from Ceará, seeking a solid place in the technology world to showcase my talents and continuously grow. I want to share and gain knowledge from those around me and am always willing to help and be helped.
 
-## 🛠 Technologies I Use
+## 🛠️ Technologies I Use
 ### Languages:
 - **JavaScript / TypeScript**
 - **Python**
