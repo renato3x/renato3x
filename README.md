@@ -49,6 +49,7 @@ My name is Renato, and I am a Full Stack developer with almost 4 years of experi
 - **Firebase**
 - **AWS**
 - **Apache Kafka**
+- **React Native**
 
 ## 📫 How to Reach Me
 - **Email**: pereirarenato21@gmail.com
