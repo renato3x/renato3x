@@ -42,7 +42,7 @@ My name is Renato, and I am a Full Stack developer with almost 4 years of experi
 - **SQL Server**
 
 ### Others:
-- **Node.js / Express**
+- **Node.js / Express / Fastify**
 - **Spring Boot**
 - **Docker**
 - **Jest / Cypress**
