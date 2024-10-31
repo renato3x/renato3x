@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-API-green?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
 ## 🌟 About Me
@@ -50,6 +51,7 @@ My name is Renato, and I am a Full Stack developer with almost 4 years of experi
 - **AWS**
 - **Apache Kafka**
 - **React Native**
+- **Swagger**
 
 ## 📫 How to Reach Me
 - **Email**: pereirarenato21@gmail.com
