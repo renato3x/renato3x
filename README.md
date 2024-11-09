@@ -54,6 +54,6 @@ My name is Renato, and I am a Full Stack developer with almost 4 years of experi
 - **Swagger**
 
 ## 📫 How to Reach Me
-- **Email**: pereirarenato21@gmail.com
+- **Email**: renato3x.dev@gmail.com
 - **GitHub**: [renato3x](https://github.com/renato3x)
 - **LinkedIn**: [Renato Pereira](https://linkedin.com/in/renato3x)
