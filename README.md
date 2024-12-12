@@ -29,28 +29,20 @@ My name is Renato, and I am a Full Stack developer with almost 4 years of experi
 ## 🎓 Academic Background
 
 - **Technologist in Systems Analysis and Development**  
-  FIAP (2025-2026)
-
 - **Technician in Information Technology**  
-  E.E.E.P Dep. José Maria Melo (2019-2021)
 
 ## 🛠️ Technologies I Use
 
 ### Programming Languages
 - Java, JavaScript, TypeScript, Python
-
 ### Web Development
 - HTML, CSS, Bootstrap, Angular, Vue, React, Next.js
-
 ### Databases
 - MySQL, MongoDB, SQL Server
-
 ### Tools and Frameworks
 - Docker, Firebase, Apache Kafka, GraphQL, Swagger, Jest, Cypress
-
 ### Mobile
 - React Native
-
 ### Cloud
 - Amazon Web Services (AWS)
 
