@@ -26,32 +26,33 @@
 ## 🌟 About Me
 My name is Renato, and I am a Full Stack developer with almost 4 years of experience, specializing in backend development. I am a young Brazilian from Ceará, seeking a solid place in the technology world to showcase my talents and continuously grow. I want to share and gain knowledge from those around me and am always willing to help and be helped.
 
+## 🎓 Academic Background
+
+- **Technologist in Systems Analysis and Development**  
+  FIAP (2025-2026)
+
+- **Technician in Information Technology**  
+  E.E.E.P Dep. José Maria Melo (2019-2021)
+
 ## 🛠️ Technologies I Use
-### Languages:
-- **JavaScript / TypeScript**
-- **Python**
-- **Java**
 
-### Web Technologies:
-- **HTML / CSS / Bootstrap**
-- **Angular / React / Vue / Next.js**
+### Programming Languages
+- Java, JavaScript, TypeScript, Python
 
-### Databases:
-- **MySQL**
-- **MongoDB**
-- **PostgreSQL**
-- **SQL Server**
+### Web Development
+- HTML, CSS, Bootstrap, Angular, Vue, React, Next.js
 
-### Others:
-- **Node.js / Express / Fastify**
-- **Spring Boot**
-- **Docker**
-- **Jest / Cypress**
-- **Firebase**
-- **AWS**
-- **Apache Kafka**
-- **React Native**
-- **Swagger**
+### Databases
+- MySQL, MongoDB, SQL Server
+
+### Tools and Frameworks
+- Docker, Firebase, Apache Kafka, GraphQL, Swagger, Jest, Cypress
+
+### Mobile
+- React Native
+
+### Cloud
+- Amazon Web Services (AWS)
 
 ## 📫 How to Reach Me
 - **Email**: renato3x.dev@gmail.com
