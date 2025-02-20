@@ -1,6 +1,10 @@
 # Hi there, I'm Renato Pereira! 👋 
 
 <p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J2NHlvYXJpenpueWJlaWVqOGdlYTZxbHVlNGVjemM5cmZjdjFqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -35,7 +39,7 @@ I am currently pursuing a degree in **Systems Analysis and Development** at **FI
 
 I am **passionate about challenges and continuous learning**, always focused on creating **impactful and high-quality technological solutions**.
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 - **🖥️ Backend:** Java (**Spring Boot**), TypeScript, JavaScript (**NestJS, Express, Fastify**), Python  
 - **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
@@ -49,7 +53,6 @@ I am **passionate about challenges and continuous learning**, always focused on 
 
 🎓 **Associate Degree in Systems Analysis and Development** - FIAP (2025-2026)  
 🎓 **Technical Degree in Information Technology** - E.E.E.P Dep. José Maria Melo (2019-2021)
-
 
 ## 🌎 Languages
 
