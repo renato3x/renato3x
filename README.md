@@ -25,28 +25,31 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with over **four years** of experience in full-stack development. My journey in tech started early, and along the way, I had the opportunity to **teach programming**, helping others grow in the field. Continuous learning and problem-solving drive me, and I'm always looking for new challenges to refine my technical and personal skills.
+I am a **full-stack software engineer** specializing in **backend development**, with over **four years of experience** building **scalable** and **robust applications**. My main expertise lies in backend development using **Node.js** (Express, Fastify, NestJS) and **Java (Spring Boot)**, focusing on **efficient APIs**, **microservices architectures**, and **Apache Kafka** integrations. I work with **SQL** databases (MySQL, SQL Server) and **NoSQL** databases (MongoDB), ensuring **performant** and **well-structured solutions**.  
 
-I specialize in **full-stack development**, extensively working with **TypeScript, JavaScript, Java, and Python**. On the frontend, I have experience with **Vue.js, React, Next.js, and Angular**, while on the backend, I build robust applications with **Node.js, NestJS, and Java Spring Boot**. I also work with **databases like MySQL, MongoDB, SQL Server and PostgreSQL**, cloud computing (**AWS**), **Docker**, and **CI/CD pipelines** using **GitHub Actions, Bitbucket Pipelines and Jenkins**. My workflow includes **GraphQL, Swagger, automated testing (Jest, Cypress), and microservices architecture with Apache Kafka**.
+Beyond backend development, I have **solid knowledge of frontend technologies**, using **Vue.js, React, Next.js, and Angular** to develop **dynamic and well-integrated interfaces**.  
 
-Currently, I'm pursuing a **degree in Systems Analysis and Development at FIAP**, enhancing my technical foundation and expanding my expertise in **software architecture, cloud computing, and scalable applications**. Throughout my career, I've worked on **multi-tenant e-commerce platforms, API integrations, ERP systems, and internal data analysis tools**, constantly focusing on performance, security, and usability.
+I also have experience with **cloud computing (AWS)**, **containerization (Docker)**, and **CI/CD pipelines (GitHub Actions, Bitbucket Pipelines, Jenkins)**, ensuring **modern and agile** development processes.  
+
+I am currently pursuing a degree in **Systems Analysis and Development** at **FIAP**, always striving to **deepen my knowledge** in **software architecture, cloud computing, and scalable applications**.  
+
+I am **passionate about challenges and continuous learning**, always focused on creating **impactful and high-quality technological solutions**.
+
+### 🛠️ Technical Skills
+
+- **🖥️ Backend:** Java (**Spring Boot**), TypeScript, JavaScript (**NestJS, Express, Fastify**), Python  
+- **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
+- **🔗 APIs & Architecture:** REST, GraphQL, Swagger, **Apache Kafka**  
+- **🎨 Frontend & Mobile:** Angular, Vue.js, React, Next.js, React Native, Tailwind CSS, Bootstrap  
+- **☁️ Infrastructure & DevOps:** **AWS**, Docker, Jenkins, GitHub Actions  
+- **✅ Automated Testing:** Jest, Vitest, Cypress  
+- **📌 Other Tools:** Firebase  
 
 ## 📚 Education
 
-🎓 **Systems Analysis and Development** - FIAP (2025-2026)  
-🎓 **Technical Degree in Information Technology** - E.E.E.P Dep. José Maria Melo (2019-2021)  
+🎓 **Associate Degree in Systems Analysis and Development** - FIAP (2025-2026)  
+🎓 **Technical Degree in Information Technology** - E.E.E.P Dep. José Maria Melo (2019-2021)
 
-## 📜 Certifications
-
-- **React Native** - Udemy, Cod3r (2024)
-- **Firebase in Practice** - Udemy (2024)
-- **SQL & NoSQL Databases** - Udemy - Geek University (2023)
-- **React JS** - Udemy (2022)
-- **Functional & Reactive JavaScript** - Udemy, Cod3r (2022)
-- **Angular & Material Design** - Udemy (2021)
-- **Java & Spring Boot** - Udemy - DevSuperior (2021)
-- **Node.js Development** - Udemy (2020)
-- **Bootstrap** - Udemy - Hcode (2020)
 
 ## 🌎 Languages
 
@@ -55,7 +58,7 @@ Currently, I'm pursuing a **degree in Systems Analysis and Development at FIAP**
 
 ## 📫 Connect with Me
 
-📧 renato3x.dev@gmail.com  
+📧 pereirarenato21@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/renato3x)  
 💻 [GitHub](https://github.com/renato3x)  
-🌐 [Portfolio](https://renato3x.dev)
+🌐 [Portfolio](https://renato3x.dev)  
