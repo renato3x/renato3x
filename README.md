@@ -25,29 +25,28 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-4B8BBE?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
 ## 🚀 About Me
 
-I am a **full-stack software engineer** specializing in **backend development**, with over **four years of experience** building **scalable** and **robust applications**. My main expertise lies in backend development using **Node.js** (Express, Fastify, NestJS) and **Java (Spring Boot)**, focusing on **efficient APIs**, **microservices architectures**, and **Apache Kafka** integrations. I work with **SQL** databases (MySQL, SQL Server) and **NoSQL** databases (MongoDB), ensuring **performant** and **well-structured solutions**.  
+I am a **full-stack software engineer** specializing in **backend development**, with over **four years** of experience building **scalable** and **robust applications**. My main expertise lies in **backend development** with **Node.js** (**Express**, **Fastify**, **NestJS**) and **Java** (**Spring Boot**), designing **efficient APIs**, **microservices architectures**, and **Apache Kafka** integrations. I work with both **SQL** (**MySQL**, **SQL Server**) and **NoSQL** (**MongoDB**) databases, ensuring **high-performance** and **well-structured** solutions.
 
-Beyond backend development, I have **solid knowledge of frontend technologies**, using **Vue.js, React, Next.js, and Angular** to develop **dynamic and well-integrated interfaces**.  
+Beyond **backend development**, I have solid knowledge in **frontend technologies**, utilizing **Vue.js**, **React**, **Next.js**, and **Angular** to build **dynamic** and **well-integrated** interfaces. I also have experience with **cloud computing** (**AWS**), **containerization** (**Docker**), and **CI/CD pipelines** (**GitHub Actions**, **Bitbucket Pipelines**, **Jenkins**), ensuring **modern** and **agile development workflows**.
 
-I also have experience with **cloud computing (AWS)**, **containerization (Docker)**, and **CI/CD pipelines (GitHub Actions, Bitbucket Pipelines, Jenkins)**, ensuring **modern and agile** development processes.  
-
-I am currently pursuing a degree in **Systems Analysis and Development** at **FIAP**, always striving to **deepen my knowledge** in **software architecture, cloud computing, and scalable applications**.  
-
-I am **passionate about challenges and continuous learning**, always focused on creating **impactful and high-quality technological solutions**.
+I am currently pursuing a degree in **Systems Analysis and Development** at **FIAP**, continuously seeking to evolve and deepen my understanding of **software architecture**, **cloud computing**, and **scalable applications**. Passionate about **challenges** and **continuous learning**, I am always focused on delivering **high-quality**, **impactful technological solutions**.
 
 ## 🛠️ Technical Skills
 
-- **🖥️ Backend:** Java (**Spring Boot**), TypeScript, JavaScript (**NestJS, Express, Fastify**), Python  
-- **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
-- **🔗 APIs & Architecture:** REST, GraphQL, Swagger, **Apache Kafka**  
-- **🎨 Frontend & Mobile:** Angular, Vue.js, React, Next.js, React Native, Tailwind CSS, Bootstrap  
-- **☁️ Infrastructure & DevOps:** **AWS**, Docker, Jenkins, GitHub Actions  
-- **✅ Automated Testing:** Jest, Vitest, Cypress  
-- **📌 Other Tools:** Firebase  
+- **⚙️ Languages:** Java, TypeScript, JavaScript, Python
+- **🖥️ Backend:** Spring Boot, NestJS, Express, Fastify
+- **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
+- **🔗 APIs & Architecture:** REST, GraphQL, Swagger, Apache Kafka
+- **🎨 Frontend & Mobile:** Angular, Vue.js, React, Next.js, React Native, Tailwind CSS, Bootstrap
+- **☁️ Infrastructure & DevOps:** AWS, Docker, Kubernetes, Prometheus, Grafana, Firebase, Jenkins, GitHub Actions, Bitbucket Pipelines
+- **✅ Automated Testing:** Jest, Vitest, Cypress
 
 ## 📚 Education
 
