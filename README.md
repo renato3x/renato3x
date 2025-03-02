@@ -40,7 +40,7 @@ I am currently pursuing a degree in **Systems Analysis and Development** at **FI
 
 ## 🛠️ Technical Skills
 
-- **⚙️ Languages:** Java, TypeScript, JavaScript, Python
+- **⚙️ Languages:** Java, TypeScript, JavaScript, Pythonn, Go
 - **🖥️ Backend:** Spring Boot, NestJS, Express, Fastify
 - **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
 - **🔗 APIs & Architecture:** REST, GraphQL, Swagger, Apache Kafka
