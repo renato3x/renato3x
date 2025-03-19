@@ -41,12 +41,10 @@ I am currently pursuing a degree in **Systems Analysis and Development** at **FI
 
 ## 🛠️ Technical Skills
 
-- **⚙️ Languages:** Java, TypeScript, JavaScript, Pythonn, Go
-- **🖥️ Backend:** Spring Boot, NestJS, Express, Fastify
-- **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
-- **🔗 APIs & Architecture:** REST, GraphQL, Swagger, Apache Kafka
-- **🎨 Frontend & Mobile:** Angular, Vue.js, React, Next.js, React Native, Tailwind CSS, Bootstrap
-- **☁️ Infrastructure & DevOps:** AWS, Docker, Kubernetes, Prometheus, Grafana, Firebase, Jenkins, GitHub Actions, Bitbucket Pipelines
+- **🖥️ Backend:** Node.js, Express, Fastify, NestJs, Java, Spring Boot, Python, Go/Golang, REST, GraphQL, Microservices, Swagger, Apache Kafka, Socket.io
+- **🎨 Frontend:** HTML, CSS, Tailwind, Bootstrap, JavaScript, TypeScript, Angular, Vue, React, Next, React Native
+- **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, Redis
+- **☁️ Infrastructure & DevOps:** AWS, Docker, Kubernetes, Prometheus, Grafana, Firebase, Jenkins, Github Actions, Bitbucket Pipelines
 - **✅ Automated Testing:** Jest, Vitest, Cypress
 
 ## 📚 Education
@@ -61,7 +59,7 @@ I am currently pursuing a degree in **Systems Analysis and Development** at **FI
 
 ## 📫 Connect with Me
 
-📧 pereirarenato21@gmail.com  
+📧 [pereirarenato21@gmail.com](pereirarenato21@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/renato3x)  
 💻 [GitHub](https://github.com/renato3x)  
 🌐 [Portfolio](https://renato3x.dev)  
