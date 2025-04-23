@@ -41,7 +41,7 @@ I am currently pursuing a degree in **Systems Analysis and Development** at **FI
 
 ## 🛠️ Technical Skills
 
-- **🖥️ Backend:** Node.js, Express, Fastify, NestJs, Java, Spring Boot, Python, Go/Golang, REST, GraphQL, Microservices, Swagger, Apache Kafka, Socket.io
+- **🖥️ Backend:** Node.js, Express, Fastify, NestJs, Java, Spring Boot, Python, Go/Golang, REST, GraphQL, Microservices, Swagger, Apache Kafka, Socket.io, RabbitMQ, SonarQube
 - **🎨 Frontend:** HTML, CSS, Tailwind, Bootstrap, JavaScript, TypeScript, Angular, Vue, React, Next, React Native
 - **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, Redis
 - **☁️ Infrastructure & DevOps:** AWS, Docker, Kubernetes, Prometheus, Grafana, Firebase, Jenkins, Github Actions, Bitbucket Pipelines
