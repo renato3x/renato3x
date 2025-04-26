@@ -55,7 +55,7 @@ I am currently pursuing a degree in **Systems Analysis and Development** at **FI
 ## 🌎 Languages
 
 - **Portuguese:** Native
-- **English:** Basic (actively improving through reading, writing, and speaking practice)
+- **English:** Intermediate (actively improving through reading, writing, and speaking practice)
 
 ## 📫 Connect with Me
 
