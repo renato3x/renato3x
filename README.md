@@ -55,7 +55,7 @@ I am currently pursuing a degree in **Systems Analysis and Development** at **FI
 
 ## 📫 Connect with Me
 
-📧 [pereirarenato21@gmail.com](pereirarenato21@gmail.com)  
+📧 [contato@renato3x.dev](contato@renato3x.dev)  
 🔗 [LinkedIn](https://www.linkedin.com/in/renato3x)  
 💻 [GitHub](https://github.com/renato3x)  
 🌐 [Portfolio](https://renato3x.dev)  
