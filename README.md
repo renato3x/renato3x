@@ -29,19 +29,23 @@
 
 ## 🚀 About Me
 
-I am a **full-stack software engineer** specializing in **backend development**, with over **four years** of experience building **scalable** and **robust applications**. My main expertise lies in **backend development** with **Node.js** (**Express**, **Fastify**, **NestJS**) and **Java** (**Spring Boot**), designing **efficient APIs**, **microservices architectures**, and **Apache Kafka** integrations. I work with both **SQL** (**MySQL**, **SQL Server**) and **NoSQL** (**MongoDB**) databases, ensuring **high-performance** and **well-structured** solutions.
+I have over four years of experience as a Software Engineer, working on real-world backend systems with a focus on scalability, performance, and reliability. I'm passionate about backend development, cloud infrastructure, and automation, and I enjoy working on complex systems that demand technical depth and solid architectural decisions.
 
-Beyond **backend development**, I have solid knowledge in **frontend technologies**, utilizing **Vue.js**, **React**, **Next.js**, and **Angular** to build **dynamic** and **well-integrated** interfaces. I also have experience with **cloud computing** (**AWS**), **containerization** (**Docker**), and **CI/CD pipelines** (**GitHub Actions**, **Bitbucket Pipelines**, **Jenkins**), ensuring **modern** and **agile development workflows**.
+I'm currently pursuing a degree in Systems Analysis and Development at FIAP, and throughout my career, I’ve worked with a wide range of technologies. My main tech stack includes **Node.js** (Express, Fastify, NestJS), **Java** (Spring Boot), **Go**, and **Python**. I build and maintain **RESTful** and **GraphQL** APIs, develop **microservices**, and integrate **event-driven architectures** using tools like **Kafka**, **RabbitMQ**, and **Socket.io**.
 
-I am currently pursuing a degree in **Systems Analysis and Development** at **FIAP**, continuously seeking to evolve and deepen my understanding of **software architecture**, **cloud computing**, and **scalable applications**. Passionate about **challenges** and **continuous learning**, I am always focused on delivering **high-quality**, **impactful technological solutions**.
+I'm proficient in relational and non-relational databases such as **PostgreSQL**, **MySQL**, **SQL Server**, **MongoDB**, and **Redis**, always aiming to optimize data access and query performance. On the DevOps side, I work with **Docker**, **Kubernetes**, **Terraform**, and cloud providers like **AWS** and **GCP**, implementing **CI/CD pipelines** with **GitHub Actions**, **Bitbucket Pipelines**, and **Jenkins**, and monitoring systems using **Prometheus** and **Grafana**.
+
+Although my focus is on backend, I also have solid experience with modern frontend frameworks like **Vue.js**, **React**, **Next.js**, and **Angular**, enabling me to contribute end-to-end when needed. I follow software quality best practices, using **Jest**, **Vitest**, **Cypress**, and **SonarQube** to ensure reliability and maintainability.
+
+I'm constantly learning and evolving as a developer, and my goal is to design systems that are not only functional, but also clean, maintainable, and resilient. I’m driven by technology, problem-solving, and building solutions that create real value.
 
 ## 🛠️ Technical Skills
 
-- **🖥️ Backend:** Node.js, Express, Fastify, NestJs, Java, Spring Boot, Python, Go/Golang, REST, GraphQL, Microservices, Swagger, Apache Kafka, Socket.io, RabbitMQ, SonarQube
-- **🎨 Frontend:** HTML, CSS, Tailwind, Bootstrap, JavaScript, TypeScript, Angular, Vue, React, Next, React Native
-- **📊 Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, Redis
-- **☁️ Infrastructure & DevOps:** AWS, Docker, Kubernetes, Prometheus, Grafana, Firebase, Jenkins, Github Actions, Bitbucket Pipelines
-- **✅ Automated Testing:** Jest, Vitest, Cypress
+- Node.js, Express, Fastify, NestJs, Java, Spring Boot, Python, Go/Golang, REST, GraphQL, Microservices, Swagger, Apache Kafka, Socket.io, RabbitMQ, SonarQube
+- HTML, CSS, Tailwind, Bootstrap, JavaScript, TypeScript, Angular, Vue, React, Next, React Native
+- MySQL, PostgreSQL, SQL Server, MongoDB, Redis
+- AWS, Docker, Kubernetes, Prometheus, Grafana, Firebase, Jenkins, Github Actions, Bitbucket Pipelines
+- Jest, Vitest, Cypress
 
 ## 📚 Education
 
@@ -54,8 +58,4 @@ I am currently pursuing a degree in **Systems Analysis and Development** at **FI
 - **English:** Intermediate (actively improving through reading, writing, and speaking practice)
 
 ## 📫 Connect with Me
-
-📧 [contato@renato3x.dev](contato@renato3x.dev)  
-🔗 [LinkedIn](https://www.linkedin.com/in/renato3x)  
-💻 [GitHub](https://github.com/renato3x)  
-🌐 [Portfolio](https://renato3x.dev)  
+[contato@renato3x.dev](contato@renato3x.dev) | [https://renato3x.dev](https://renato3x.dev) | [LinkedIn](https://www.linkedin.com/in/renato3x) | [GitHub](https://github.com/renato3x) 
