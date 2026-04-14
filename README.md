@@ -46,4 +46,4 @@ Node.js, Express, Fastify, NestJs, Java, Spring Boot, Gradle, Maven, Python, Go/
 - **English:** Intermediate (actively improving through reading, writing, and speaking practice)
 
 ## 📫 Connect with Me
-[contato@renato3x.dev](contato@renato3x.dev) | [LinkedIn](https://www.linkedin.com/in/renato3x) | [GitHub](https://github.com/renato3x) 
+[renato3x.dev@gmail.com](renato3x.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/renato3x) | [GitHub](https://github.com/renato3x) 
